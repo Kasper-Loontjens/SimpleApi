@@ -1,0 +1,27 @@
+{
+  "farewell1" : {
+    "name" : "Bye",
+    "rating": 5,
+    "comment": "Quite basic"
+  },
+  "farewell2": {
+    "name" : "Peace out",
+    "rating": 8,
+    "comment": "Sweet and nice"
+  },
+  "farewell3": {
+    "name" : "Fare thee well",
+    "rating": 9,
+    "comment": "Old school and enjoyable"
+  },
+  "farewell4": {
+    "name" : "Gotta get going",
+    "rating": 4,
+    "comment": "No fun, hurry-wart"
+  },
+  "farewell5": {
+    "name" : "Stay classy",
+    "rating": 7,
+    "comment": "Fun, but don´t tell me what to do"
+  }
+}

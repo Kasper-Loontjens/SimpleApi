@@ -1,0 +1,27 @@
+{
+  "greeting1" : {
+    "name" : "hello",
+    "rating": 5,
+    "comment": "Quite basic"
+  },
+  "greeting2": {
+    "name" : "whaddup",
+    "rating": 7,
+    "comment": "Playful but unprofessional"
+  },
+  "greeting3": {
+    "name" : "Yo!",
+    "rating": 8,
+    "comment": "Cool and friendly"
+  },
+  "greeting4": {
+    "name" : "Howdy, partner",
+    "rating": 9,
+    "comment": "Fun and old school"
+  },
+  "greeting5": {
+    "name" : "Ahoy, matey!",
+    "rating": 10,
+    "comment": "Yarr!"
+  }
+}
